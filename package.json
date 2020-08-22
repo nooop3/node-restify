@@ -97,7 +97,7 @@
     "csv": "^5.1.1",
     "escape-regexp-component": "^1.0.2",
     "ewma": "^2.0.1",
-    "find-my-way": "^2.0.1",
+    "find-my-way": "git+https://github.com/nooop3/find-my-way.git#024dd2a0b3afd431ab84080a099b733cc29c3d96",
     "formidable": "^1.2.1",
     "http-signature": "^1.2.0",
     "lodash": "^4.17.11",
